@@ -18,7 +18,7 @@ public class AssignmentPart3 {
                 if (j < max - i) {
                     System.out.print("@");
                 } else {
-                    System.out.print(' ');
+                    System.out.print("+");
                 }
             }
             System.out.println();
